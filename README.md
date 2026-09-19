@@ -150,16 +150,17 @@ The application uses Android's `AlarmManager` to schedule reminders. The `Remind
 android.permission.SCHEDULE_EXACT_ALARM
 android.permission.USE_EXACT_ALARM
 ```
-## 📸 Screenshots 
-<img width="1080" height="2372" alt="WhatsApp Image 2026-09-19 at 10 03 26 PM" src="https://github.com/user-attachments/assets/0c189d0b-a273-484f-820e-2ad05e565d15" />
-<img width="1080" height="2372" alt="WhatsApp Image 2026-09-19 at 10 03 26 PM (1)" src="https://github.com/user-attachments/assets/c664a98e-32ab-4e51-960a-a35a06f20577" />
-<img width="1080" height="2372" alt="WhatsApp Image 2026-09-19 at 10 13 09 PM" src="https://github.com/user-attachments/assets/ef0cd7fc-09dd-4ae1-8fc4-954667d5374c" />
-<img width="728" height="1600" alt="WhatsApp Image 2026-09-19 at 10 03 27 PM (1)" src="https://github.com/user-attachments/assets/a288b20d-0fab-4cc4-8a86-fd6a73b4de4b" />
-<img width="1080" height="2372" alt="WhatsApp Image 2026-09-19 at 10 13 09 PM (1)" src="https://github.com/user-attachments/assets/077ec9e4-8fa1-414e-a525-74c424e1486f" />
-<img width="728" height="1600" alt="WhatsApp Image 2026-09-19 at 10 03 27 PM" src="https://github.com/user-attachments/assets/6eb54eb5-2c0a-4cf7-b8f9-bdf29d5283ea" />
-<img width="728" height="1600" alt="WhatsApp Image 2026-09-19 at 10 03 26 PM (3)" src="https://github.com/user-attachments/assets/1aeac7ea-5909-473a-a044-515d411864fe" />
-
-
+ 
+## 📸 Screenshots
+ 
+<img width="350" height="778" alt="Screenshot 1" src="https://github.com/user-attachments/assets/0c189d0b-a273-484f-820e-2ad05e565d15" />
+<img width="350" height="778" alt="Screenshot 2" src="https://github.com/user-attachments/assets/c664a98e-32ab-4e51-960a-a35a06f20577" />
+<img width="350" height="778" alt="Screenshot 3" src="https://github.com/user-attachments/assets/ef0cd7fc-09dd-4ae1-8fc4-954667d5374c" />
+<img width="350" height="778" alt="Screenshot 4" src="https://github.com/user-attachments/assets/a288b20d-0fab-4cc4-8a86-fd6a73b4de4b" />
+<img width="350" height="778" alt="Screenshot 5" src="https://github.com/user-attachments/assets/077ec9e4-8fa1-414e-a525-74c424e1486f" />
+<img width="350" height="778" alt="Screenshot 6" src="https://github.com/user-attachments/assets/6eb54eb5-2c0a-4cf7-b8f9-bdf29d5283ea" />
+<img width="350" height="778" alt="Screenshot 7" src="https://github.com/user-attachments/assets/1aeac7ea-5909-473a-a044-515d411864fe" />
+ 
 ## 🔮 Future Improvements
  
 * 🔔 Rich notifications with action buttons (Mark as taken / Snooze)
@@ -176,4 +177,3 @@ android.permission.USE_EXACT_ALARM
 **Language:** Kotlin
 **IDE:** Android Studio
 **Version:** 1.0
- 
