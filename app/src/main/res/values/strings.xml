@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Appointment and Medicine Reminder</string>
+    <string name="add_appointment">Add Appointment</string>
+    <string name="add_medicine">Add Medicine</string>
+    <string name="medicine_name">Medicine Name</string>
+    <string name="dosage">Dosage (e.g. 1 Tablet)</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="notes">Notes</string>
+    <string name="reminder_date">Reminder Date</string>
+    <string name="reminder_time">Reminder Time</string>
+    <string name="save">Save</string>
+    <string name="personal_reminder">Personal Reminder</string>
+    <string name="logout">Logout</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="medicines">Medicines</string>
+    <string name="appointments">Appointments</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
