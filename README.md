@@ -156,10 +156,12 @@ android.permission.USE_EXACT_ALARM
 <img width="350" height="778" alt="Screenshot 1" src="https://github.com/user-attachments/assets/0c189d0b-a273-484f-820e-2ad05e565d15" />
 <img width="350" height="778" alt="Screenshot 2" src="https://github.com/user-attachments/assets/c664a98e-32ab-4e51-960a-a35a06f20577" />
 <img width="350" height="778" alt="Screenshot 3" src="https://github.com/user-attachments/assets/ef0cd7fc-09dd-4ae1-8fc4-954667d5374c" />
-<img width="350" height="778" alt="Screenshot 4" src="https://github.com/user-attachments/assets/a288b20d-0fab-4cc4-8a86-fd6a73b4de4b" />
-<img width="350" height="778" alt="Screenshot 5" src="https://github.com/user-attachments/assets/077ec9e4-8fa1-414e-a525-74c424e1486f" />
-<img width="350" height="778" alt="Screenshot 6" src="https://github.com/user-attachments/assets/6eb54eb5-2c0a-4cf7-b8f9-bdf29d5283ea" />
-<img width="350" height="778" alt="Screenshot 7" src="https://github.com/user-attachments/assets/1aeac7ea-5909-473a-a044-515d411864fe" />
+<img width="350" height="788" alt="Screenshot 4" src="https://github.com/user-attachments/assets/9002420f-84a5-4189-9c29-8e2afa147d80" />
+<img width="350" height="778" alt="Screenshot 5" src="https://github.com/user-attachments/assets/a288b20d-0fab-4cc4-8a86-fd6a73b4de4b" />
+<img width="350" height="778" alt="Screenshot 6" src="https://github.com/user-attachments/assets/077ec9e4-8fa1-414e-a525-74c424e1486f" />
+<img width="350" height="788" alt="Screenshot 7" src="https://github.com/user-attachments/assets/382d8c40-efda-4f41-a331-63fd4d24664f" />
+<img width="350" height="778" alt="Screenshot 8" src="https://github.com/user-attachments/assets/6eb54eb5-2c0a-4cf7-b8f9-bdf29d5283ea" />
+<img width="350" height="778" alt="Screenshot 9" src="https://github.com/user-attachments/assets/1aeac7ea-5909-473a-a044-515d411864fe" />
  
 ## 🔮 Future Improvements
  
